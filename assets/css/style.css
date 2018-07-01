@@ -1,0 +1,62 @@
+body {
+    background-image: url("../images/hypnotize.png");
+    background-repeat: repeat-x repeat-y;
+}
+
+a {
+    color:black;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+h1 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h2 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.banner {
+    padding:0px 11% 20px 11%;
+    margin-left:-10px;
+    margin-top:-30px;
+    margin-bottom:40px;
+    width:100%;
+    position: relative;
+    background-color:#ffffff;
+}
+
+    .title-box {
+        padding:20px;
+        width:20%;
+        position: relative;
+        top:20px;
+        bottom:0px;
+        background-color:#4aaaa5;
+        color:#ffffff;
+    }
+
+    .internal-links {
+        padding:20px;
+        width:33.3%;
+        position: absolute;
+        top:40px;
+        right:153px;
+    }
+
+.content {
+    padding:20px;
+    margin-left:10%;
+    margin-right:10%;
+    width:960px;
+    background-color:#ffffff;
+}
+
+    #headshot {
+        width:100px;
+        height:100px;
+        float:left;
+    }
