@@ -32,19 +32,23 @@ h2 {
     .title-box {
         padding:20px;
         width:20%;
+        height: 100px;
         position: relative;
         top:20px;
         bottom:0px;
         background-color:#4aaaa5;
         color:#ffffff;
+        text-align: center;
+        line-height:100px;
+        font-size:35px;
     }
 
     .internal-links {
         padding:20px;
         width:33.3%;
         position: absolute;
-        top:40px;
-        right:153px;
+        top:55px;
+        right:170px;
     }
 
 .content {
