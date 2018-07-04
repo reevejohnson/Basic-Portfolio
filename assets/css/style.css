@@ -52,15 +52,26 @@ h2 {
     }
 
 .content {
+    height:300px;
     padding:20px;
     margin-left:10%;
     margin-right:10%;
-    width:960px;
+    max-width:960px;
     background-color:#ffffff;
 }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    .project {
+        padding: 20px 10px 20px 10px;
+        float: left;
+    }
 
     #headshot {
         width:100px;
         height:100px;
+        padding: 20px;
         float:left;
     }
