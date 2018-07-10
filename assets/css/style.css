@@ -61,7 +61,7 @@ hr {
         width:33.3%;
         position: absolute;
         top:55px;
-        right:170px;
+        right:145px;
     }
 
 .content {
@@ -134,6 +134,10 @@ hr {
         height:100px;
         padding: 20px;
         float:left;
+    }
+
+    form {
+        width: 925px;
     }
 
     input[type=text], select, textarea {
