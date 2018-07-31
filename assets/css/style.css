@@ -105,12 +105,12 @@ hr {
         }
 
     #hangman {
-        background-image: url("../images/Giraffe.jpeg");
+        background-image: url("https://d2b8crmh47yoxi.cloudfront.net/wp-content/uploads/2015/01/word-count.jpg");
         background-size:cover;
     }
 
     #rpg-game {
-        background-image: url("../images/Clownfish.jpg");
+        background-image: url("http://orig15.deviantart.net/4f18/f/2011/149/0/3/gems_1_by_melodycphotography-d29h1q9.jpg");
         background-size:cover;
     }
 
